@@ -1,0 +1,26 @@
+GitHub Test Repo Setup Summary
+Created a local Git repository using git init.
+
+Added a placeholder file (Zombie Draw Deck Images.docx) to test Git functionality.
+
+Committed the file with a message like "Initial commit".
+
+Created a remote GitHub repository named Moss under your account frazierross231-lgtm.
+
+Linked your local repo to GitHub using:
+
+bash
+git remote add origin https://github.com/frazierross231-lgtm/Moss.git
+Resolved a remote error by verifying the URL and repo existence.
+
+Successfully pushed your test commit to the master branch.
+
+🔮 Future Plans for the Repo
+You plan to replace the placeholder with:
+
+README files to document your project
+
+Python and Bash scripts for actual functionality
+
+Let me know when you're ready to scaffold your README or want help structuring your codebase. I can help with everything from CLI tools to automation scripts. Want to sketch out what Moss will eventually do?
+
